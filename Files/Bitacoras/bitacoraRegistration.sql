@@ -1,0 +1,21 @@
+Se ingreso un nuevo evento :EVALUACIONES DE FIN DE CURSO a las: Mon Jan 11 04:42:52 CST 2016
+Se ingreso un nuevo evento :NADA a las: Mon Jan 11 04:50:07 CST 2016
+El ADMIN ingreso un usuario nuevo DANIEL ASASD ASDAS 05052016 ASD 1234 M asdasdasda 20161825 1 a las Tue May 10 18:25:53 CDT 2016
+El ADMIN ingreso un usuario nuevo ASD ADS ADS 10052016 ADSF 132 M 231 20161856 2 a las Tue May 10 18:56:58 CDT 2016
+El ADMIN ingreso un usuario nuevo SDA SDAD SAD 10052016 SAD 234 M asd 20161903 2 a las Tue May 10 19:03:36 CDT 2016
+El ADMIN ingreso un usuario nuevo ASDKJB JBKJB KJB 10052016 KJBKJ 88 M 98jbnkj 20161905 3 a las Tue May 10 19:05:52 CDT 2016
+El ADMIN ingreso un usuario nuevo SSD ASDSADS DDAS 05052016 DASDSD 324 M sad 20161910 2 a las Tue May 10 19:10:11 CDT 2016
+El ADMIN ingreso un usuario nuevo ADF DSFDSFASDF ADSF 19052016 343214 24324 M wercg 20161914 2 a las Tue May 10 19:14:06 CDT 2016
+El ADMIN ingreso un usuario nuevo SAD JKN JKN 10052016 324 786 M fdsfa 20161915 1 a las Tue May 10 19:15:00 CDT 2016
+El ADMIN ingreso un usuario nuevo AEF ADSFAD FADSF 10052016 ADF 43545 M eqr 20161951 1 a las Tue May 10 19:51:43 CDT 2016
+El ADMIN ingreso un usuario nuevo DDS SDAD SADSDS 10052016 SAD 4334 M sddasd 20161958 3 a las Tue May 10 19:58:32 CDT 2016
+El ADMIN ingreso un usuario nuevo SAD SADF SADF 10052016 SADF 423 M dsaf 20162000 3 a las Tue May 10 20:00:48 CDT 2016
+El ADMIN ingreso un usuario nuevo DANIEL DANIEL DANILEL 14052016 DANIEL 67976 M sddvsdvbf@lnvjsdv 20161229 3 a las Sat May 14 12:29:31 CDT 2016
+El ADMIN ingreso un usuario nuevo ANGELICA ANGELICA ANGELICA 30092016   F  20162023 3 a las Sat May 14 20:23:41 CEST 2016
+El ADMIN ingreso un usuario nuevo VIANEY VIANEY VIANEY 15052016 AS 3423 F sad 20161358 3 a las Sun May 15 13:58:27 CEST 2016
+El ADMIN ingreso un usuario nuevo VIANEY VIANEY VIANEY 15052016 ASD 32321 F jdajs 20161400 3 a las Sun May 15 14:00:11 CEST 2016
+El ADMIN ingreso un usuario nuevo LUIS LUIS LUIS 15052016 DSF 232 M hjsd 20161406 3 a las Sun May 15 14:06:02 CEST 2016
+El ADMIN ingreso un usuario nuevo LUIS LUIS LUIS 15052016 SHD 2344 M jkdh 20161636 3 a las Sun May 15 16:36:53 CEST 2016
+El ADMIN ingreso un usuario nuevo LUIS LUIS LUIS 15052016 DDD 232 M wqewq 20161647 3 a las Sun May 15 16:47:36 CEST 2016
+El ADMIN ingreso un usuario nuevo LUIS LUIS LUIS 15052016 DJK 332 M kdsf 20162208 1 a las Sun May 15 22:08:31 CEST 2016
+El ADMIN ingreso un usuario nuevo LUIS LUIS LUIS 15052016 KSDSJ 21312 M dksj 20162331 3 a las Sun May 15 23:31:15 CEST 2016
